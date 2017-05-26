@@ -1,0 +1,22 @@
+Design
+======
+
+The django app **myapp** is created to build the RESTful API. 
+
+Overview
+--------
+
+The major goal of the Django app is to create an API to fetch movie details. Hence, the design is based out on the movie model to store movie data. Apart from that the project also focuses on providing custom critics to the user. 
+
+Every user registering to the website is being profiled. The registered users data holds logging credentials information. It also includes the critic selection made by the user.
+
+Why Tastypie?
+-------------
+
+There are other API frameworks out there for Django. But there are obvious reasons for choosing Tastypie:
+
+- An API that is RESTful and uses HTTP well.
+
+- Need not write our own serializer to make the output right.
+ 
+- Flexible and maps well to the problem domain.

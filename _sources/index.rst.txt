@@ -1,0 +1,46 @@
+.. My Movie Critic documentation master file, created by
+   sphinx-quickstart on Tue May 16 01:39:10 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to My Movie Critic's documentation!
+===========================================
+This documentation provides detailed information regarding the source of the project and the development model. Creation of RESTful API for the My Movie Critic web application, the source, models and other details involved. 
+
+Requirements:
++++++++++++++
+
++----------------------------+---------------+
+| Package/Tool               | Version       |
++============================+===============+
+| ``Python``                 | 3.5.2         |
++----------------------------+---------------+
+| ``Django``                 | 1.8           |
++----------------------------+---------------+
+| ``Django-cors-headers``    | 2.0.2         |
++----------------------------+---------------+
+| ``Django-filter``          | 1.0.2         |
++----------------------------+---------------+
+| ``Django-tastypie``        | 0.13.3        |
++----------------------------+---------------+
+| ``Djangorestframework``    | 3.6.2         |
++----------------------------+---------------+
+
+
+Contents:
+---------
+
+.. toctree::
+   :maxdepth: 2
+   
+   intro
+   design
+   api
+   userstories
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

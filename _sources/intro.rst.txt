@@ -1,0 +1,22 @@
+Introduction
+============
+
+The Django project objective is to build a RESTful API to return movie rating based on movie details.
+
+Idea
+----
+
+The idea is to build an API using Tastypie framework. Using this API the django app shall return movie data based on the API GET requests.
+
+
+Goals Achieved
+--------------
+1. To design a database in order to store movie database
+The movie data has to be stored in a well designed structure. To hold movie details a model has to be created. This shall be used to stored all the movie details.
+
+2. To build movie database
+Once the model to hold movie data is created, the actual movie data from various 3rd party APIs has to be collected and built locally into the database for Django app to seek.
+
+3. To build a RESTful API
+To fetch the movie details stored in the database, a very own API has to be built, which takes some of the movie details as query parameter and returns movie JSON object.
+

@@ -1,0 +1,39 @@
+User Stories
+============
+
+1. As a website visitor I want to see list of movies in home page, in order to surf through the list of movies & find the movie of my interest.
+
+2. As a website visitor I want to search for a movie, so that I can see the rating & reviews of that movie.
+
+3. As a website visitor I want to make an advanced search based on various factors like movie title, genre, year, etc., so that I can find the movie I am looking for with minimum data I know about it.
+
+4. As a website visitor I want to navigate across the website so that I can use various features provided by the website.
+
+5. As a website visitor I want to contact the developer of the website, so that I can share concerns or suggestions about the website.
+
+6. As a website visitor I want to register to the website, so that I can see movie reviews from custom critics of my choice.
+
+7. As a registering user I want to key in my information, in order to register to the website.
+
+8. As a registered user I want to login into the website, in order to get cutomized critics and reviews of movies.
+
+9. As a registered user I key in my login credentials, in order to log in into the website.
+
+10. As a registered user I want to see list of movies in home page, in order to surf through the list of movies & find the movie of my interest.
+
+11. As a registered user I want to search for a movie, so that I can see the rating & reviews of that movie.
+
+
+12. As a registered user I want to make an advanced search based on various factors like movie title, genre, year, etc., so that I can find the movie I am looking for with minimum data I know about it.
+
+13. As a registered user I want to navigate across the website so that I can use various features provided by the website.
+
+14. As a registered user I want to contact the developer of the website, so that I can share concerns or suggestions about the website.
+
+15. As a registered user I want to select critics, so that I can get reviews from critics of my interest.
+
+16. As a registered user I want to see my profile, so that I can learn about my current critic selection.
+
+17. As a registered user I want to update my critics information, in order to get reviews from different critic.
+
+18. As a registered user I want to log out from the website.
